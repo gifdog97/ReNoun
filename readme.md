@@ -1,5 +1,5 @@
 # ReNoun
-This is the self-implementation of [ReNoun: Fact Extraction for Nominal Attributes](https://www.aclweb.org/anthology/D14-1038.pdf), the representative noun-based OpenIE systems.
+This is the self-implementation of [ReNoun: Fact Extraction for Nominal Attributes](https://www.aclweb.org/anthology/D14-1038.pdf), the representative noun-based OpenIE system.
 
 ## Overview of ReNoun
 - Noun-based OpenIE system: From the natural language text, extract triple whose relation is represented as a noun.
